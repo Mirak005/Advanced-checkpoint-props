@@ -21,4 +21,7 @@ Guide line :
 5. Define propTypes in productsTable and productRow  (MyComponent.proptypes = ..... ) 
  
  Video aubout props : https://www.youtube.com/watch?v=qA-KepBpGM4&list=PLDdXfoajF9Ntto2VQYHc7Y8LBRhLBIwq5&index=1 
+ 
+ 
+ 
  Proptypes :  https://fr.reactjs.org/docs/typechecking-with-proptypes.html
